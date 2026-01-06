@@ -1,5 +1,22 @@
-# Firebase Studio
+# CampusHelp – Smart Complaint & Support System
 
-This is a NextJS starter in Firebase Studio.
+CampusHelp is a web application that helps students report campus issues
+such as maintenance, cleanliness, safety, and infrastructure problems.
 
-To get started, take a look at src/app/page.tsx.
+## Features
+- Firebase Authentication (Student & Admin login)
+- Complaint submission and tracking
+- Admin dashboard for issue management
+- AI-based complaint categorization using Gemini
+- Real-time updates using Firestore
+
+## Technologies Used
+- Firebase Authentication
+- Cloud Firestore
+- Firebase Hosting
+- Gemini + Genkit
+- Next.js, Tailwind CSS
+
+## Impact
+This project improves communication between students and campus authorities
+and reduces the time taken to resolve campus problems.
