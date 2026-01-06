@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "login-background",
+      "description": "A modern university campus building with students walking by.",
+      "imageUrl": "https://images.unsplash.com/photo-1592280771190-3e2e4d571952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx1bml2ZXJzaXR5JTIwY2FtcHVzfGVufDB8fHx8MTc2NzY2OTQ5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "university campus"
+    },
+    {
+      "id": "complaint-maintenance",
+      "description": "Tools and equipment for maintenance work.",
+      "imageUrl": "https://images.unsplash.com/photo-1633990308758-b26aada5804e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0b29scyUyMG1haW50ZW5hbmNlfGVufDB8fHx8MTc2NzcyMTQxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tools maintenance"
+    },
+    {
+      "id": "complaint-cleanliness",
+      "description": "Cleaning supplies on a cart.",
+      "imageUrl": "https://images.unsplash.com/photo-1689127903369-aef916b0c40d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjbGVhbmluZyUyMHN1cHBsaWVzfGVufDB8fHx8MTc2NzcwNzcyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cleaning supplies"
+    },
+    {
+      "id": "complaint-safety",
+      "description": "A security camera mounted on a wall.",
+      "imageUrl": "https://images.unsplash.com/photo-1617897711385-df9c86b7dfe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2VjdXJpdHklMjBjYW1lcmF8ZW58MHx8fHwxNzY3NjcyNjc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "security camera"
+    },
+    {
+      "id": "complaint-water",
+      "description": "A water droplet falling from a faucet.",
+      "imageUrl": "https://images.unsplash.com/photo-1606214554814-e8a9f97bdbb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3YXRlciUyMGRyb3B8ZW58MHx8fHwxNzY3NzA5OTcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water drop"
+    },
+    {
+      "id": "complaint-electricity",
+      "description": "A lit lightbulb, symbolizing electricity.",
+      "imageUrl": "https://images.unsplash.com/photo-1493612276216-ee3925520721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsaWdodCUyMGJ1bGJ8ZW58MHx8fHwxNzY3NjM1MTk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "light bulb"
+    },
+    {
+      "id": "complaint-other",
+      "description": "A question mark block, representing other issues.",
+      "imageUrl": "https://images.unsplash.com/photo-1665789318391-6057c533005e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxxdWVzdGlvbiUyMG1hcmt8ZW58MHx8fHwxNzY3NzIxNDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "question mark"
+    },
+    {
+      "id": "empty-state-complaints",
+      "description": "An illustration showing a person looking at an empty list.",
+      "imageUrl": "https://images.unsplash.com/photo-1583162627169-4e41bdb422d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxlbXB0eSUyMGxpc3R8ZW58MHx8fHwxNzY3NjIwNzMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "empty list"
+    }
+  ]
 }
